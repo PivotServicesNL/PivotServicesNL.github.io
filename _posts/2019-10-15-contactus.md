@@ -1,6 +1,7 @@
 ---
 layout: post
 title: contact us
+subtitle: A fancy subtitle for contact us
 gh-repo: false
 gh-badge: false
 tags: false
