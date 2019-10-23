@@ -1,0 +1,99 @@
+---
+layout: page
+title: Pivot Service
+subtitle: An Amazon related service
+use-site-title: true
+bigimg:
+- "/img/big-imgs/madtech.jpg" : "Your Amazon administator"
+- "/img/big-imgs/nikkei.jpg" : "Another dummy background image"
+---
+
+<div class="container" role="main">
+    {% if paginator.page == 1 %}
+    <div class="row ">
+      <div class="col-lg-6 col-lg-offset-1 col-md-10 col-md-offset-1">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+         sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+           Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </div>
+    </div>
+    {% endif %}
+    {% if paginator.page == 2 %}
+    <div class="row">
+      <div class="col-lg-6 col-lg-offset-1 col-md-10 col-md-offset-1">
+         中文dummy text魔法公主神聖誕生高達九十二點五趴那就是你的元神宮這樣沒有違憲嗎？聰明是智慧者的天敵，包括你請來MBA，
+         哪怕非常弱小，碰到災難第一個想到的是你的客戶，小公司的戰略簡單一點，
+         包括你請來MBA，碰到災難第一個想到的是你的客戶，不能拷貝我的苦難，有價值觀，地不怕，你應該做的不是去挑戰它，
+         不是你的公司在哪裡，…向著面前不知終極的路上，不過隨意做作而已，總在等待過年的快樂，因為所規定的過年，這說是野蠻的慣習，呻呻吟吟，蹧躂人！
+        </div>
+    </div>
+    {% endif %}
+</div> 
+
+<div class="posts-list">
+  {% for post in paginator.posts %}
+  <article class="post-preview">
+    <a href="{{ post.url | relative_url }}">
+	  <h2 class="post-title">{{ post.title }}</h2>
+
+	  {% if post.subtitle %}
+	  <h3 class="post-subtitle">
+	    {{ post.subtitle }}
+	  </h3>
+	  {% endif %}
+    </a>
+
+    <!--<p class="post-meta">
+      Posted on {{ post.date | date: site.date_format }}
+    </p>-->
+
+    <div class="post-entry-container">
+      {% if post.image %}
+      <div class="post-image">
+        <a href="{{ post.url | relative_url }}">
+          <img src="{{ post.image | relative_url }}">
+        </a>
+      </div>
+      {% endif %}
+      <div class="post-entry">
+        {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
+        {% assign excerpt_word_count = post.excerpt | number_of_words %}
+        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
+          <!--<a href="{{ post.url | relative_url }}" class="post-read-more">[Read&nbsp;More]</a>-->
+        {% endif %}
+      </div>
+    </div>
+
+    {% if post.tags.size > 0 %}
+    <div class="blog-tags">
+      Tags:
+      {% if site.link-tags %}
+      {% for tag in post.tags %}
+      <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
+      {% endfor %}
+      {% else %}
+        {{ post.tags | join: ", " }}
+      {% endif %}
+    </div>
+    {% endif %}
+
+   </article>
+  {% endfor %}
+</div>
+
+<!--{% if paginator.total_pages > 1 %}
+<ul class="pager main-pager">
+  {% if paginator.previous_page %}
+  <li class="previous">
+    <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li class="next">
+    <a href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}-->
