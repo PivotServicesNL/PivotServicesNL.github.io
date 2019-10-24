@@ -16,22 +16,61 @@
 
     <div class="collapse navbar-collapse" id="main-navbar">
       <ul class="nav navbar-nav navbar-right">
-      {%- for link in site.navbar-links -%}
-        {%- if link[1].first %}
-          <li class="navlinks-container">
-            <a class="navlinks-parent" href="javascript:void(0)">{{ link[0] }}</a>
-            <div class="navlinks-children">
-              {%- for childlink in link[1] -%}
-              {%- for linkparts in childlink %}
-              <a href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
-              {%- endfor -%}
-              {%- endfor %}
-            </div>
-          </li>
+      <!--  if lang specified -->
+      {%- if page.lang -%}
+        {%- for lang-links in site.navbar-links -%}
+          {%- if lang-links.first == page.lang -%}
+            {%- for link in lang-links[1] %}
+            {%- if link.first[1][0] %}
+            <li class="navlinks-container">
+              <a class="navlinks-parent" href="javascript:void(0)">{{ link.first[0] }}</a>
+              <div class="navlinks-children">
+                {%- for childlink in link.first[1] -%}
+                {%- for linkparts in childlink %}
+                <a href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
+                {%- endfor -%}
+                {%- endfor %}
+              </div>
+            </li>
+            {% else %}
+            <li><a href="{{ link.first[1] | relative_url }}">{{ link.first[0] }}</a></li>
+            {%- endif -%}
+            {%- endfor -%}
+          {%- endif -%}
+        {%- endfor -%}
+
+      <!--  if no lang specified, in English -->
+      {%- else -%} 
+        {%- for link in site.navbar-links.en -%}
+        {%- if link.first[1][0] %}
+        <li class="navlinks-container">
+          <a class="navlinks-parent" href="javascript:void(0)">{{ link.first[0] }}</a>
+          <div class="navlinks-children">
+            {%- for childlink in link.first[1] -%}
+            {%- for linkparts in childlink %}
+            <a href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
+            {%- endfor -%}
+            {%- endfor %}
+          </div>
+        </li>
         {% else %}
-          <li><a href="{{ link[1] | relative_url }}">{{ link[0] }}</a></li>
+        <li><a href="{{ link.first[1] | relative_url }}">{{ link.first[0] }}</a></li>
         {%- endif -%}
-      {%- endfor -%}
+        {%- endfor -%}
+      {%- endif -%}
+
+      <!-- Language navigation / -->
+      {%- if site.navbar-links.Language -%}
+      <li class="navlinks-container">
+        <a class="navlinks-parent" href="javascript:void(0)">Language</a>
+        <div class="navlinks-children">
+          {%- for link in site.navbar-links.Language -%}
+          <a href="{{ link.first[1] | relative_url }}">{{ link.first[0] }}</a>
+          {%- endfor -%}
+        </div>
+      </li>
+      {%- endif -%}
+      <!-- Language navigation / -->
       </ul>
     </div>
 
