@@ -21,13 +21,13 @@ description: An Amazon related service
 # List of links in the navigation bar
 navbar-links:
   en:
-    - Home: "https://pivotserviceNL.github.io/"
+    - Home: "https://pivotservicesNL.github.io/"
     - About Us: "/about-us/en"
   zh:
     - 首頁: "/zh/"
     - 關於我們: "/about-us/zh"
   Language: 
-    - English: "https://pivotserviceNL.github.io/"
+    - English: "https://pivotservicesNL.github.io/"
     - 中文: "/zh/"
   
 
