@@ -1,7 +1,8 @@
 ---
-layout: post
-title: about us
+layout: page
+title: Consulting Service
 subtitle: A fancy subtitle for about us
+permalink: /cons_serv/en
 gh-repo: false
 gh-badge: false
 tags: false

@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: page
 title: Listing Optimization
 subtitle: A fancy subtitle for about us
+permalink: /list_opt/en
 gh-repo: false
 gh-badge: false
 tags: false

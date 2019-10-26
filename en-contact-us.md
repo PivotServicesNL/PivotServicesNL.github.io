@@ -1,14 +1,14 @@
 ---
 layout: page
-title: VAT service
-subtitle: A fancy subtitle for VAT service
-permalink: /VAT/en
+title: Contact us
+subtitle: A fancy subtitle for about us
+permalink: /contact-us/en
 gh-repo: false
 gh-badge: false
 tags: false
 comments: false
 ---
-We provide ... services.<br>
+We are a company that ..<br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit,
          sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
           Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

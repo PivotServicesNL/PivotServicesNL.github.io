@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: page
 title: VAT服務
 subtitle: 副標題
+permalink: /VAT/zh
 gh-repo: false
 gh-badge: false
 tags: false
