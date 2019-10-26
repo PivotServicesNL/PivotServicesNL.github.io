@@ -1,0 +1,21 @@
+<!-- TODO this file has become a mess, refactor it -->
+
+{% if page.banner %}
+<div class="container" role="main">
+  <div class="row">
+    <!-- <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1"> -->
+      {% for bannerinfo in page.banner %}
+      {% assign itemnum = forloop.index %}
+      {% if page.banner.size >= 4 %}
+      {% if itemnum <= 4 %}
+      <div class="col-lg-3 col-md-3" style="text-align:center">
+        <img src="{{ bannerinfo.first[0] | relative_url }}" width="60%" />
+        <h3 class="page-subheading">{{ bannerinfo.first[1] }}</h3>
+      </div>
+      {% endif %}
+      {% endif %}
+      {% endfor %}
+    <!-- </div> -->
+  </div>
+</div>
+{% endif %}
