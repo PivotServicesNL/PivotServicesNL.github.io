@@ -2,6 +2,7 @@
 layout: page
 title: Advertising
 subtitle: 副標題
+lang: zh
 permalink: /ad/zh
 gh-repo: false
 gh-badge: false

@@ -2,6 +2,7 @@
 layout: page
 title: Consultant Service
 subtitle: 副標題
+lang: zh
 permalink: /cons_serv/zh
 gh-repo: false
 gh-badge: false

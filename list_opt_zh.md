@@ -2,6 +2,7 @@
 layout: page
 title: Listing Optimization
 subtitle: 副標題
+lang: zh
 permalink: /list_opt/zh
 gh-repo: false
 gh-badge: false
