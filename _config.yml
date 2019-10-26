@@ -23,9 +23,19 @@ navbar-links:
   en:
     - Home: "https://pivotservicesNL.github.io/"
     - About Us: "/about-us/en"
+    - Services:
+      - Consultant service: "/consultant/en"
+      - Listing Optimization: "/listing/en"
+      - Advertising: "/advertising/en"
+      - VAT Compliant: "/vat/en"
   zh:
     - 首頁: "/zh/"
     - 關於我們: "/about-us/zh"
+    - 服務項目:
+      - 策略諮詢: "/consultant/zh"
+      - 產品頁面最佳化: "/listing/zh"
+      - 產品行銷: "/advertising/zh"
+      - 增值稅合規: "/vat/zh"
   Language: 
     - English: "https://pivotservicesNL.github.io/"
     - 中文: "/zh/"
