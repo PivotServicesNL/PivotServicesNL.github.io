@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Listing Optimization
+title: Listing最佳化
 subtitle: 副標題
 lang: zh
-permalink: /list_opt/zh
+permalink: /listing/zh
 gh-repo: false
 gh-badge: false
 tags: false

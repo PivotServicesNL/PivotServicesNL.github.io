@@ -2,7 +2,7 @@
 layout: page
 title: Advertising
 subtitle: A fancy subtitle for about us
-permalink: /ad/en
+permalink: /advertising/en
 gh-repo: false
 gh-badge: false
 tags: false
