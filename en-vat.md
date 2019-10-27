@@ -2,7 +2,7 @@
 layout: page
 title: VAT service
 subtitle: A fancy subtitle for VAT service
-permalink: /vat/en
+permalink: /vat/
 gh-repo: false
 gh-badge: false
 tags: false

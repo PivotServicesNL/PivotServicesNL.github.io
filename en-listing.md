@@ -2,7 +2,7 @@
 layout: page
 title: Listing Optimization
 subtitle: A fancy subtitle for about us
-permalink: /listing/en
+permalink: /listing/
 gh-repo: false
 gh-badge: false
 tags: false

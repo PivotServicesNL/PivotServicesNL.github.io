@@ -2,7 +2,7 @@
 layout: page
 title: Consulting Service
 subtitle: A fancy subtitle for about us
-permalink: /consultant/en
+permalink: /consultant/
 gh-repo: false
 gh-badge: false
 tags: false

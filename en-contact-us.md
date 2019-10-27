@@ -2,7 +2,7 @@
 layout: page
 title: Contact us
 subtitle: A fancy subtitle for about us
-permalink: /contact-us/en
+permalink: /contact-us/
 gh-repo: false
 gh-badge: false
 tags: false
