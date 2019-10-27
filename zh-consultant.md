@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 策略諮詢
 subtitle: 副標題
 lang: zh

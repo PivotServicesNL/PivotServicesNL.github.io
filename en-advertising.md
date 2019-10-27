@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Advertising
 subtitle: A fancy subtitle for about us
 permalink: /advertising/

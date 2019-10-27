@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 聯絡我們
 subtitle: 神奇海螺副標題
 lang: zh

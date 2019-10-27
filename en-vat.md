@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: VAT service
 subtitle: A fancy subtitle for VAT service
 permalink: /vat/
