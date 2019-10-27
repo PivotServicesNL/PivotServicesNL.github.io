@@ -22,13 +22,13 @@ description: An Amazon related service
 navbar-links:
   en:
     - Home: "https://pivotservicesNL.github.io/"
-    - About Us: "/about-us/en"
+    - About Us: "/about-us"
     - Services:
-      - Consultant service: "/consultant/en"
-      - Listing Optimization: "/listing/en"
-      - Advertising: "/advertising/en"
-      - VAT Compliant: "/vat/en"
-    - Contact Us: "/contact-us/en"
+      - Consultant service: "/consultant"
+      - Listing Optimization: "/listing"
+      - Advertising: "/advertising"
+      - VAT Compliant: "/vat"
+    - Contact Us: "/contact-us"
   zh:
     - 首頁: "/zh/"
     - 關於我們: "/about-us/zh"
@@ -45,25 +45,25 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/favicon.png"
+# avatar: "/img/favicon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: /img/favicon.png
+title-img: /img/banner-logo.png
 
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
+navbar-col: "#f2f2f2"
+navbar-text-col: "#1e1e1e"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
-link-col: "#008AFF"
-hover-col: "#0085A1"
+link-col: "#f5824a"
+hover-col: "#f05a1f"
 footer-col: "#F5F5F5"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-text-col: "#692a2a"
+footer-link-col: "#f5824a"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
