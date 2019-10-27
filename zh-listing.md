@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Listing最佳化
 subtitle: 副標題
 lang: zh

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 產品行銷
 subtitle: 副標題
 lang: zh

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Contact us
 subtitle: A fancy subtitle for about us
 permalink: /contact-us/

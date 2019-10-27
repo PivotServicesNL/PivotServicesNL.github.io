@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Consulting Service
 subtitle: A fancy subtitle for about us
 permalink: /consultant/
