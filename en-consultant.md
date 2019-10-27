@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Listing Optimization
+title: Consulting Service
 subtitle: A fancy subtitle for about us
-permalink: /list_opt/en
+permalink: /consultant/
 gh-repo: false
 gh-badge: false
 tags: false
 comments: false
 ---
-We help customer to optimize...<br>
+We provide consultant servie<br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit,
          sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
           Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

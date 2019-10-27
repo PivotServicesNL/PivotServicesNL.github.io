@@ -1,9 +1,9 @@
 ---
 layout: page
-title: VAT服務
+title: 增值稅合規
 subtitle: 副標題
 lang: zh
-permalink: /VAT/zh
+permalink: /vat/zh
 gh-repo: false
 gh-badge: false
 tags: false

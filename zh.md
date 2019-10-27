@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 中文版首頁
+title: Pivot Service
 subtitle: 神奇海螺副標題
 lang: zh
 permalink: /zh/
@@ -10,7 +10,11 @@ tags: false
 comments: false
 use-site-title: true
 bigimg:
-- "/img/big-imgs/madtech.jpg" : "Your Amazon administator"
-- "/img/big-imgs/nikkei.jpg" : "Another dummy background image"
+- "/img/banner-bg.png"
+banner:
+- consultant: "策略諮詢介紹詞"
+- listing : "產品頁面最佳化介紹詞"
+- advertising : "產品行銷介紹詞"
+- vat : "增值稅合規介紹詞"
 ---
 中文版首頁在此!!!!!!!

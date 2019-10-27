@@ -2,7 +2,7 @@
 layout: page
 title: About us
 subtitle: A fancy subtitle for about us
-permalink: /about-us/en
+permalink: /about-us/
 gh-repo: false
 gh-badge: false
 tags: false

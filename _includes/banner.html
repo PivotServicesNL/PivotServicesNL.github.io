@@ -1,0 +1,69 @@
+<!-- TODO this file has become a mess, refactor it -->
+
+{% if page.banner %}
+<div class="container" role="main">
+  <div class="row">
+    <!-- <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1"> -->
+      {% for banner-info in page.banner %}
+      <!-- consultant -->
+      {% if banner-info.first[0] == "consultant" %}
+      <a href="{{ 'consultant/' | relative_url }}{{ page.lang }}">
+      <div class="col-lg-3 col-md-3" style="text-align:center">
+        <img src="{{ "/img/dummy-img.png" | relative_url }}" width="60%" />
+        <h3 class="page-subheading">
+          {% if page.lang == "zh" %} 策略諮詢 
+          {% else %} Consultant
+          {% endif %}
+        </h3>
+        <p>{{ banner-info.first[1] }}</p>
+      </div>
+      </a>
+      {% endif %}
+      <!-- listing -->
+      {% if banner-info.first[0] == "listing" %}
+      <a href="{{ 'listing/' | relative_url }}{{ page.lang }}">
+      <div class="col-lg-3 col-md-3" style="text-align:center">
+        <img src="{{ "/img/dummy-img.png" | relative_url }}" width="60%" />
+        <h3 class="page-subheading">
+          {% if page.lang == "zh" %} 產品頁面最佳化
+          {% else %} Listing optimisation
+          {% endif %}
+        </h3>
+        <p>{{ banner-info.first[1] }}</p>
+      </div>
+      </a>
+      {% endif %}
+      <!-- advertising -->
+      {% if banner-info.first[0] == "advertising" %}
+      <a href="{{ 'advertising/' | relative_url }}{{ page.lang }}">
+      <div class="col-lg-3 col-md-3" style="text-align:center">
+        <img src="{{ "/img/dummy-img.png" | relative_url }}" width="60%" />
+        <h3 class="page-subheading">
+          {% if page.lang == "zh" %} 產品行銷
+          {% else %} Advertising
+          {% endif %}
+        </h3>
+        <p>{{ banner-info.first[1] }}</p>
+      </div>
+      </a>
+      {% endif %}
+      <!-- vat -->
+      {% if banner-info.first[0] == "vat" %}
+      <a href="{{ 'vat/' | relative_url }}{{ page.lang }}">
+      <div class="col-lg-3 col-md-3" style="text-align:center">
+        <img src="{{ "/img/dummy-img.png" | relative_url }}" width="60%" />
+        <h3 class="page-subheading">
+          {% if page.lang == "zh" %} 增值稅合規
+          {% else %} VAT Compliance
+          {% endif %}
+        </h3>
+        <p>{{ banner-info.first[1] }}</p>
+      </div>
+      </a>
+      {% endif %}
+
+      {% endfor %}
+    <!-- </div> -->
+  </div>
+</div>
+{% endif %}

@@ -1,17 +1,16 @@
 ---
 layout: page
-title: Advertising
-subtitle: A fancy subtitle for about us
-permalink: /ad/en
+title: VAT service
+subtitle: A fancy subtitle for VAT service
+permalink: /vat/
 gh-repo: false
 gh-badge: false
 tags: false
 comments: false
 ---
-We provide advertisment service...<br>
+We provide ... services.<br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit,
          sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
           Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
             Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-

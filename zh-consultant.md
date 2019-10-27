@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Consultant Service
+title: 策略諮詢
 subtitle: 副標題
 lang: zh
-permalink: /cons_serv/zh
+permalink: /consultant/zh
 gh-repo: false
 gh-badge: false
 tags: false

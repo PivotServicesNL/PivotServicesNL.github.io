@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Advertising
+title: 產品行銷
 subtitle: 副標題
 lang: zh
-permalink: /ad/zh
+permalink: /advertising/zh
 gh-repo: false
 gh-badge: false
 tags: false
