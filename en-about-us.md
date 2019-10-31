@@ -1,16 +1,15 @@
 ---
 layout: post
 title: About us
-subtitle: A fancy subtitle for about us
+subtitle: It all starts with Quality...
 permalink: /about-us/
 gh-repo: false
 gh-badge: false
 tags: false
 comments: false
 ---
-We are a company that ..<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-         sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-           Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<br><br>
+Pivot Services is a new and dynamic company that believes passionately in a holistic quality-centric approach to selling on Amazon Europe. 
+Our team includes native speakers from the 5 key markets (UK, DE, FR, ES and IT), each of whom is familiar with Amazon's platform standards/guidelines and can maximise marketplace visibility through careful research and in-depth analysis of competitors and buyer keywords.<br><br>
+We combine premium core content with sophisticated advertising campaigns with demonstrable efficacy and can also help localise graphics/social media promotions for additional competitive advantage.<br><br>
+For companies entering the complex world of European VAT accounting, we offer a one-stop contact window to help streamline the process and manage the application norms and compliance.
