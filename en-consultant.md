@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Consultancy
-subtitle: A fancy subtitle for about us
+subtitle: Precise knowledge, succinctly applied
 permalink: /consultant/
 gh-repo: false
 gh-badge: false
