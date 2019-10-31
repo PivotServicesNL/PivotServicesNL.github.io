@@ -1,16 +1,19 @@
 ---
 layout: post
 title: Contact us
-subtitle: A fancy subtitle for about us
+subtitle: Tailored solutions that meet your needs
 permalink: /contact-us/
 gh-repo: false
 gh-badge: false
 tags: false
 comments: false
 ---
-We are a company that ..<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-         sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-           Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Pivot Services offers a broad range of packages which can be further tailored to meet your brand's ambitions.
+<br><br>Fundamentals<br>
+We strongly believe that quality content is the gateway to success in all the European markets. Thus, our most basic service includes optimal listing, category placement, case management and go to market strategies. 
+<br><br>Expansion<br>
+Localised product page content is our forté which we can augment with our in-depth knowledge of campaigns, storefront opportunities and expanded brand visibility both internal to and external from the Amazon marketplace.
+<br><br>Expansion<br>
+At the highest, and most sustainable level, is the establishment of brand trust through Seller feedback, product reviews and constructive customer relations. This is the preferred option of brands looking to build a lasting presence on Amazon Europe.
+<br><br>Partnership<br>
+If you would like more detailed information or perhaps a more personalised package, please contact us directly to schedule an in-depth consultation.
