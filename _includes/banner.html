@@ -6,7 +6,7 @@
     <!-- <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1"> -->
       {% for banner-info in page.banner %}
       <!-- consultant -->
-      {% if banner-info.first[0] == "consultant" %}
+      {% if banner-info.first[0] == "consultancy" %}
       <div class="col-lg-3 col-md-3" style="text-align:center">
         <a href="{{ '/consultant/' | relative_url }}{{ page.lang }}">
         <img src="{{ "/img/dummy-img.png" | relative_url }}" width="60%" />
