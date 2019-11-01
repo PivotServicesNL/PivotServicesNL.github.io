@@ -3,7 +3,7 @@ layout: post
 title: 策略諮詢
 subtitle: 副標題
 lang: zh
-permalink: /consultant/zh
+permalink: /consultancy/zh
 gh-repo: false
 gh-badge: false
 tags: false

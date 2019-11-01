@@ -2,7 +2,7 @@
 layout: post
 title: Consultancy
 subtitle: Precise knowledge, succinctly applied
-permalink: /consultant/
+permalink: /consultancy/
 gh-repo: false
 gh-badge: false
 tags: false
