@@ -22,21 +22,21 @@ description: An Amazon related service
 navbar-links:
   en:
     - Home: "https://pivotservicesNL.github.io/"
-    - About Us: "/about-us"
     - Services:
-      - Consultant service: "/consultant"
+      - Consultancy: "/consultancy"
       - Listing Optimization: "/listing"
       - Advertising: "/advertising"
       - VAT Compliant: "/vat"
+    - About Us: "/about-us"
     - Contact Us: "/contact-us"
   zh:
     - 首頁: "/zh/"
-    - 關於我們: "/about-us/zh"
     - 服務項目:
-      - 策略諮詢: "/consultant/zh"
+      - 策略諮詢: "/consultancy/zh"
       - 產品頁面最佳化: "/listing/zh"
       - 產品行銷: "/advertising/zh"
       - 增值稅合規: "/vat/zh"
+    - 關於我們: "/about-us/zh"
     - 聯絡我們: "/contact-us/zh"
   Language: 
     - English: "https://pivotservicesNL.github.io/"
