@@ -26,7 +26,7 @@ navbar-links:
       - Consultancy: "/consultancy"
       - Listing Optimization: "/listing"
       - Advertising: "/advertising"
-      - VAT Compliant: "/vat"
+      - VAT Compliance: "/vat"
     - About Us: "/about-us"
     - Contact Us: "/contact-us"
   zh:
