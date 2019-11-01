@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pivot Service
+title: Pivot Services
 subtitle: 神奇海螺副標題
 lang: zh
 permalink: /zh/
@@ -12,7 +12,7 @@ use-site-title: true
 bigimg:
 - "/img/banner-bg.png"
 banner:
-- consultant: "策略諮詢介紹詞同學一整學期沒有上過任何課，老師好我是網頁設計課的同學，…國內油價連3漲"
+- consultancy: "策略諮詢介紹詞同學一整學期沒有上過任何課，老師好我是網頁設計課的同學，…國內油價連3漲"
 - listing : "產品頁面最佳化介紹詞同學一整學期沒有上過任何課，老師好我是網頁設計課的同學，…國內油價連3漲"
 - advertising : "產品行銷介紹詞同學一整學期沒有上過任何課，老師好我是網頁設計課的同學，…國內油價連3漲"
 - vat : "增值稅合規介紹詞同學一整學期沒有上過任何課，老師好我是網頁設計課的同學，…國內油價連3漲"
