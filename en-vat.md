@@ -1,16 +1,14 @@
 ---
 layout: post
 title: VAT service
-subtitle: A fancy subtitle for VAT service
+subtitle: One Stop Service
 permalink: /vat/
 gh-repo: false
 gh-badge: false
 tags: false
 comments: false
 ---
-We provide ... services.<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-         sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-           Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our certified accountants effectively manage a broad portfolio of VAT applications across key Amazon EU markets (including logistics operational centres in neighbouring countries), so you don't have to. Our EU offices are ideally located to expedite the process and overcome potential complications through misunderstandings.
+
+We use our own in-house developed software to efficiently integrate Amazon's sales data and provide real-time tracking of VAT outstanding per market
+
