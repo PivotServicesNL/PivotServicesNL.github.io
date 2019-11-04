@@ -1,18 +1,22 @@
 ---
 layout: post
 title: Listing Optimization
-subtitle: A fancy subtitle for about us
+subtitle: Multi-Faceted
 permalink: /listing/
 gh-repo: false
 gh-badge: false
 tags: false
 comments: false
 ---
-We help customer to optimize...<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-         sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-           Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+#### A Well-Considered Balance
+There is no 'perfect' model for listing products, as there are typically multiple trade-offs in complexity, CR, traffic, and discoverability. In general, there are three main elements to develop for select products families (parent/child SKU) following a local competition audit.
+            
+| Impressions        | Search           | Ambition |
+| ------------- |:-------------:| -----:|
+| Category Rank     | By Department | Tag |
+| Keyword Result     | Search Engine      | Traffic |
+| Reviews | Comparative      |   Conversion |
 
+#### The Right Kick Off
+For newly-released product lines we also offer a variety of strategies to overcome established competitors and ensure first page visability.  
 
