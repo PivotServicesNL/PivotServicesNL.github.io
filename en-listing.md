@@ -17,6 +17,7 @@ There is no 'perfect' model for listing products, as there are typically multipl
 | Keyword Result     | Search Engine      | Traffic |
 | Reviews | Comparative      |   Conversion |
 
+
 #### The Right Kick Off
 For newly-released product lines we also offer a variety of strategies to overcome established competitors and ensure first page visability.  
 
