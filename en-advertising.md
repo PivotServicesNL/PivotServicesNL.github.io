@@ -1,17 +1,39 @@
 ---
 layout: post
 title: Advertising
-subtitle: A fancy subtitle for about us
+subtitle: Methodical. Succinct. Evolving.
 permalink: /advertising/
 gh-repo: false
 gh-badge: false
 tags: false
 comments: false
 ---
-We provide advertisment service...<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-         sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-           Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Once product page content is deemed acceptable, we can provide extensive adverting & promotional campaign support using keywords and phrases that meet the expectations native shoppers (thereby increasing conversion rates). 
 
+## Sponsored Products
+- Automatic campaigns tailored by placements
+- Manual campaigns incorporating broad/phrase/exact keywords strategies
+- Negative keyword updates to maximise efficiency
+- Targeted product placements
+- Defensive advertising
+
+When a storefront is available, we are able to promote brand awareness within the Amazon platform.
+
+## Sponsored Brands
+- General and sub-page driven traffic
+- Broad traffic, low ACoS keywords
+- Use of analytics to improve storefront conversion rates
+
+If there is a social media platform, e.g. Facebook or Twitter, we can synergise or create campaigns to help boost Amazon rankings.
+
+## Social Media
+- Targeted audience campaigns
+- Increase external traffic
+- Generate brand loyalty
+
+Certain products may also be eligable for wider Amazon promotions, which can be useful for gaining a Bestseller tag.
+
+## Amazon Promotions
+- Deal of the Day
+- Lightning Deal
+- Coupon combo's
