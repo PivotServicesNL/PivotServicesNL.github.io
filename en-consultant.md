@@ -12,9 +12,11 @@ comments: false
 ***
 We believe that key to success in the EU begins with respect for the *local language*. Therefore, we configure titles, bullet points, and EBC/A+ modules using our in-house native speaker team who are conversant with preparatory SEO research software to seamlessly translate brand intent in an appropriate tone and register.
 
+
 #### Amazon Compliant
 ***
 Our team has the knowledge and expertise to adjust content (typically images) to meet specific market needs and help insulate brands from inadvertent violations. We are further able to leverage this experience to swiftly resolve cases and defend existing content from competitor infringement.
+
 
 #### Mobile-Friendly Display 
 ***
