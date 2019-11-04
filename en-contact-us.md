@@ -19,5 +19,5 @@ Localised product page content is our forté which we can augment with our in-de
 ### Trust
 At the highest, and most sustainable level, is the establishment of brand trust through Seller feedback, product reviews and constructive customer relations. This is the preferred option of brands looking to build a lasting presence on Amazon Europe.
 
-#### Partnership
+### Partnership
 If you would like more detailed information or perhaps a more personalised package, please contact us directly to schedule an in-depth consultation.
