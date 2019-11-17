@@ -21,3 +21,6 @@ At the highest, and most sustainable level, is the establishment of brand trust 
 
 ### Partnership
 If you would like more detailed information or perhaps a more personalised package, please contact us directly to schedule an in-depth consultation.
+
+### Contact
+e-mail: ally.chiang@pivot-services.nl | WhatsAp: +31 6 1474 5838 | Line ID: @pivot-services
